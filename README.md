@@ -1,4 +1,4 @@
-# IPL-Dashboard-2009-2025
+# IPL-Dashboard-2008-2025
 This is Ipl multiple dataset that is used and make relationship with help of power bi to make interactive dashboard
 
 This project presents an interactive Power BI dashboard built to analyze historical data from the Indian Premier League spanning from 2008 to 2025. The dashboard is designed to provide comprehensive insights into team performance, player achievements, and overall tournament trends in a visually engaging manner.
